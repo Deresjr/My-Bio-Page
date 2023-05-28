@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bio Page</title>
+    <link href="bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div> class="container"> 
+        <div>
+            class="row">
+            <div>
+                id="bio" class="col-12 class=col-lg-6 text-center">
+                    <h1>
+                        Deres Corleone
+                    </h1>
+                        <img src="photo.jpg" class="img-fluid">
+                        <div>
+                            id="more" class="col-12 class=col-lg-6">
+                        <h2> Favorite Music Artists </h2> 
+                        <ul>
+                            <li> Jay-Z </li>
+                            <li> Young Thug </li>
+                            <li> Future </li>
+                            <li> Wiz Khalifa </li>
+                            <li> Lil Baby </li>
+                        </ul>  
+                        <h2> Favorite Films </h2>
+                        <ol> The GodFather </ol>
+                        <ol> Scarface </ol>
+                        <ol> Any James Bonds 007 Films</ol>
+                        <ol> Sherlock Holmes </ol>
+                        <ol> The Wolf of Wall Street </ol>
+                        <a> href="linkedin.com/in/deres-benn-jr-145564141" class="btn btn-primary"> My Meta Profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="bootstrap.bundle.min.js"></script>
+</body>
+</html>
